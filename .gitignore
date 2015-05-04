@@ -1,0 +1,8 @@
+*.suo
+*.user
+bin
+obj
+*.pdb
+App_Data
+*.Publish.xml
+
